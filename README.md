@@ -1,16 +1,6 @@
+![WhatsApp Image 2024-01-01 at 07 39 54](https://github.com/Masumraj1/WhatsApp_Prectice/assets/141552007/ad54826c-e193-48b3-b98a-d3b2d2297187)
 # whatsup_ui_prectice
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
